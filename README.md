@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Wilson (Wonsik) Oh.
+- 👋 Hi, I’m Wonsik (Wilson) Oh.
 - 👀 I’m interested in AI.
 - 🌱 I’m currently learning Python (numpy, pandas, seaborn...), openCV, scikit-learn, keras and so on.
 - 💞️ I’m looking to collaborate on ...
